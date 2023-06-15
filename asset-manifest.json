@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e7fe4aed.js",
-    "static/js/787.9f3da3d1.chunk.js": "/static/js/787.9f3da3d1.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e7fe4aed.js.map": "/static/js/main.e7fe4aed.js.map",
-    "787.9f3da3d1.chunk.js.map": "/static/js/787.9f3da3d1.chunk.js.map"
+    "main.css": "/aitd2-cards/static/css/main.073c9b0a.css",
+    "main.js": "/aitd2-cards/static/js/main.35fcc87a.js",
+    "static/js/787.9f3da3d1.chunk.js": "/aitd2-cards/static/js/787.9f3da3d1.chunk.js",
+    "index.html": "/aitd2-cards/index.html",
+    "main.073c9b0a.css.map": "/aitd2-cards/static/css/main.073c9b0a.css.map",
+    "main.35fcc87a.js.map": "/aitd2-cards/static/js/main.35fcc87a.js.map",
+    "787.9f3da3d1.chunk.js.map": "/aitd2-cards/static/js/787.9f3da3d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e7fe4aed.js"
+    "static/js/main.35fcc87a.js"
   ]
 }
