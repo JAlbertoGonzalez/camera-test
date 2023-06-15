@@ -2,7 +2,7 @@
   "name": "camera-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JAlbertoGonzalez.github.io/aitd2-cards",
+  "homepage": "https://JAlbertoGonzalez.github.io/camera-test",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
